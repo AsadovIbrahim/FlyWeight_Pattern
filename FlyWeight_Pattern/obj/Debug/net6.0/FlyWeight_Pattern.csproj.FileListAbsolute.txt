@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\bin\Debug\net6.0\FlyWeight_Pattern.exe
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\bin\Debug\net6.0\FlyWeight_Pattern.deps.json
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\bin\Debug\net6.0\FlyWeight_Pattern.runtimeconfig.json
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\bin\Debug\net6.0\FlyWeight_Pattern.dll
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\bin\Debug\net6.0\FlyWeight_Pattern.pdb
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.AssemblyInfo.cs
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.dll
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\refint\FlyWeight_Pattern.dll
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.pdb
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\FlyWeight_Pattern.genruntimeconfig.cache
+C:\Users\Asus\source\repos\FlyWeight_Pattern\FlyWeight_Pattern\obj\Debug\net6.0\ref\FlyWeight_Pattern.dll
